@@ -1,0 +1,23 @@
+{
+  "name": "morganlionheart",
+  "version": "1.0.0",
+  "description": "E commerce platform for writer Morgan Lionheart",
+  "main": "index.html",
+  "dependencies": {
+    "bootstrap": "^4.0.0-alpha.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bballinben/MorganLionheart.git"
+  },
+  "author": "Benjamin King",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bballinben/MorganLionheart/issues"
+  },
+  "homepage": "https://github.com/bballinben/MorganLionheart#readme"
+}
